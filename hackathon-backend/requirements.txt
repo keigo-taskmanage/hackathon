@@ -1,0 +1,5 @@
+fastapi[standard]
+openai
+sqlalchemy[asyncio]
+asyncmy
+cryptography
